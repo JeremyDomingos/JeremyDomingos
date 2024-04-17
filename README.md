@@ -11,6 +11,7 @@ Contact Me
 If you'd like to connect or collaborate, feel free to reach out:
 
 Email: codejeremydomingos@gmail.com
+
 Twitter: @jer_domingos
 
 Thank You!
