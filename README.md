@@ -7,7 +7,7 @@ I enjoy building things and exploring new technologies. This GitHub repository s
 
 CS50
 
-I'm currently enrolled in CS50, Harvard's Introduction to Computer Science. I'm excited to showcase all the sa.
+I'm currently enrolled in CS50, Harvard's Introduction to Computer Science. I'm excited to showcase all the mind binding projects my unhinged imagination comes up with. 
 
 Contact Me
 If you'd like to connect or just gove some much needed advice, feel free to reach out:
