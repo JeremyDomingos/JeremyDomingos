@@ -7,15 +7,15 @@ I enjoy building things and exploring new technologies. This GitHub repository s
 
 CS50
 
-I'm currently enrolled in CS50, Harvard's Introduction to Computer Science course. I'm learning about [topics covered in the course], and I'm excited to apply my knowledge to new projects and challenges.
+I'm currently enrolled in CS50, Harvard's Introduction to Computer Science. I'm excited to showcase all the sa.
 
 Contact Me
-If you'd like to connect or collaborate, feel free to reach out:
+If you'd like to connect or just gove some much needed advice, feel free to reach out:
 
 Email: codejeremydomingos@gmail.com
 
 Twitter: @jer_domingos
 
-Thank You!
-Thank you for visiting my GitHub page. I'm passionate about coding and creating, and I'm always looking for new opportunities to learn and grow. I hope you find my projects interesting and inspiring. Happy coding!
+May you have a bug-free-day!
+
 
